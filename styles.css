@@ -1,0 +1,59 @@
+p {
+    font-size: 18px;
+}
+h1 {
+    margin: 20px 0px 30px 0px;
+}
+table, tr, td {
+    border: 1px solid #72cb76;
+}
+table {
+    width: 600px;
+    margin-bottom: 30px;
+}
+td {
+    width: 250px;
+    height: auto;
+    text-align: center;
+    padding: 10px;
+}
+span {
+    font-weight: 600;
+    
+}
+li {
+    margin-bottom: 10px;
+}
+.contenedor {
+    width: 600px;
+    margin: 0 auto;
+    border: 1px solid #cccccc;
+    padding: 10px;
+}
+.menu {
+    padding: 10px 0px 35px 0px;
+    font-size: 18px;
+}
+.foot {
+    background-color: #cccccc;
+    padding: 20px 0px 5px 0px;
+}
+.icon {
+    text-align: center;
+}
+.texto {
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 0px 10px 0px;
+}
+.boton {
+    background-color: #2d9732;
+    color: white;
+    padding: 10px;
+    border-radius: 24px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Helvetica, sans-serif, Arial;
+}
